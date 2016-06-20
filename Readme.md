@@ -1,0 +1,4 @@
+Connecting patients with doctors
+Language: JAVA
+Used: Android
+Project Description: It was an android application. The basic idea behind this app was to heal at home. Avoid waiting at doctor’s offices, booking appointments or last-minute cancellations. Instead of ignoring/avoiding symptoms, you can now privately discuss health issues with our expert doctors, get valuable opinions and get hospital-quality nursing care at your place of convenience. In this, I designed a chat application through which doctors and patients can communicate. Moreover, doctor’s interface and patients interface according to their respective requirements were designed
